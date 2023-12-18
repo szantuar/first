@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account>
+	<name>Spider</name>
+	<HP>
+		<max>8</max>
+		<now>8</now>
+	</HP>
+	<mana>
+		<max>0</max>
+		<now>0</now>	
+	</mana>
+	<lvl>1</lvl>
+	<exp>5</exp>
+		<stats>
+			<STR>7</STR>
+			<VIT>3</VIT>
+			<AGA>5</AGA>
+			<INT>2</INT>
+		</stats>
+</account>

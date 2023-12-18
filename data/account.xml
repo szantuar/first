@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<account>
+	<name>Primal</name>
+	<maps>
+		<x>5</x>
+		<y>5</y>
+	</maps>
+	<HP>
+		<max>10</max>
+		<now>10</now>
+	</HP>
+	<mana>
+		<max>10</max>
+		<now>10</now>	
+	</mana>
+	<lvl>1</lvl>
+	<exp>0</exp>
+		<stats>
+			<STR>5</STR>
+			<VIT>5</VIT>
+			<AGA>5</AGA>
+			<INT>5</INT>
+			<ADD>0</ADD>
+		</stats>
+</account>

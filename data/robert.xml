@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account>
+	<name>robert</name>
+	<maps>
+		<x>7</x>
+		<y>9</y>
+	</maps>
+	<HP>
+		<max>50</max>
+		<now>50</now>
+	</HP>
+	<mana>
+		<max>20</max>
+		<now>20</now>	
+	</mana>
+	<lvl>12</lvl>
+	<exp>10</exp>
+		<stats>
+			<STR>20</STR>
+			<VIT>25</VIT>
+			<AGA>20</AGA>
+			<INT>10</INT>
+			<ADD>0</ADD>
+		</stats>
+</account>

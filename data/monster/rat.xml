@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<account>
+	<name>Rat</name>
+	<HP>
+		<max>5</max>
+		<now>5</now>
+	</HP>
+	<mana>
+		<max>0</max>
+		<now>0</now>	
+	</mana>
+	<lvl>1</lvl>
+	<exp>2</exp>
+		<stats>
+			<STR>3</STR>
+			<VIT>2</VIT>
+			<AGA>2</AGA>
+			<INT>1</INT>
+		</stats>
+</account>
